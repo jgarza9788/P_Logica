@@ -68,7 +68,7 @@ Arguing that a particular event will lead to a chain of events with negative con
 
 # what to read first ... ?
 
-[draft 00](.\draft_00_20231224.md)  
+[draft 00](draft_00_20231224.md)  
 
 ## images
 <img src=".\images\document.jpg" alt="drawing" style="width:300px;"/><br>  
