@@ -71,10 +71,10 @@ Arguing that a particular event will lead to a chain of events with negative con
 [draft 00](.\draft_00_20231224.md)  
 
 ## images
-![image](.\document.jpg)  
-![image](.\Designer.jpeg)  
-![image](.\Designer_(1).jpeg)  
-![image](.\Designer_(2).jpeg)  
+<img src=".\images\document.jpg" alt="drawing" style="width:300px;"/><br>  
+<img src=".\images\Designer.jpeg" alt="drawing" style="width:300px;"/><br>   
+<img src=".\images\Designer_(1).jpeg" alt="drawing" style="width:300px;"/><br>   
+<img src=".\images\Designer_(2).jpeg" alt="drawing" style="width:300px;"/><br>    
 
 
 ## maybe a Dr Suss Style Rhyme  
